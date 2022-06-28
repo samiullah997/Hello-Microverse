@@ -6,7 +6,7 @@ bin-release/
 
 # Other files and folders
 .settings/
-
+.A test.md
 # Executables
 *.swf
 *.air
